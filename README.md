@@ -8,6 +8,6 @@ Dentro de los archivos se encuentran los manuales de Usuario y Técnico en los q
 
 Puedes acceder al dashboard interactivo a través del siguiente enlace:
 
-[Dashboard Interactivo de Transformación Digital en IES](https://app.powerbi.com/view?r=eyJrIjoiY2NhNmY3YmItYTBmZS00MTgxLWJjN2ItODE0ZjU0NDRjOGQyIiwidCI6IjRiNTJiYTNkLTkxYWYtNGEyOS04YjZiLWYzNTg0NjczYTc0OCIsImMiOjR9)
+[Dashboard Interactivo de Transformación Digital en IES](https://app.powerbi.com/view?r=eyJrIjoiOTgyNTQ5YTktMTg3NC00MjgwLTkwNDEtMzliNDk5OGY3NGMwIiwidCI6IjRiNTJiYTNkLTkxYWYtNGEyOS04YjZiLWYzNTg0NjczYTc0OCIsImMiOjR9)
 
  
